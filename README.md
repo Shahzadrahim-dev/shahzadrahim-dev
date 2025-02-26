@@ -7,7 +7,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=shahzadrahim-dev&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false" height="200" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzadrahim-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=maroongold&hide_border=false&order=2" height="250" alt="languages graph"  />
     </td>
     <td align="center" valign="middle">
       <img src="https://nirzak-streak-stats.vercel.app/?user=shahzadrahim-dev&theme=maroongold&hide_border=false" height="200" />
@@ -20,3 +20,8 @@
 
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzadrahim-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=maroongold&hide_border=false&order=2" height="250" alt="languages graph"  />
+</div>
+ <img src="https://github-readme-stats.vercel.app/api?username=shahzadrahim-dev&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false" height="200" />
+###
