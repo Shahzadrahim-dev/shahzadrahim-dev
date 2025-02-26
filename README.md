@@ -14,7 +14,7 @@
     </td>
   </tr>
 </table>
-<br/>
-<div align="center">
+
+<div align="center" style="margin-top: 0;>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzadrahim-dev&radius=16&theme=merko&area=true&order=5&point=D9A43C&title_color=D9A43C&line=D9A43C&color=D9A43C&hide_border=true&hide_title=true" height="430" alt="activity-graph graph"  />
 </div>
