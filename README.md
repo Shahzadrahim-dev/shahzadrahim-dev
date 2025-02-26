@@ -16,7 +16,7 @@
 </table>
 
 <div align="center" margin-top: -20px> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzadrahim-dev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzadrahim-dev&radius=16&theme=merko&area=true&order=5&point=D9A43C&title_color=D9A43C&line=D9A43C&color=D9A43C&hide_border=true&hide_title=true" height="430" alt="activity-graph graph"  />
 </div>
-
 
