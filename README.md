@@ -11,7 +11,7 @@ Line 2
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=shahzadrahim-dev&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false" height="250" />
+      <img src="https://github-readme-stats.vercel.app/api?username=shahzadrahim-dev&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false" height="255" />
     </td>
     <td align="center" valign="middle">
       <img src="https://nirzak-streak-stats.vercel.app/?user=shahzadrahim-dev&theme=maroongold&hide_border=false" height="250" />
