@@ -13,6 +13,8 @@
       <img src="https://nirzak-streak-stats.vercel.app/?user=shahzadrahim-dev&theme=maroongold&hide_border=false" height="250" />
     </td>
   </tr>
+  #patata
 </table><div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzadrahim-dev&radius=16&theme=merko&area=true&order=5&point=D9A43C&title_color=D9A43C&line=D9A43C&color=D9A43C&hide_border=true&hide_title=true" height="430" alt="activity-graph graph"  />
 </div>
+#potato
