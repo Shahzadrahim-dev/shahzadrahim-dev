@@ -44,8 +44,6 @@
   <img width="12" />
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/nodejs.svg" height="50" alt="node logo"  />
   <img width="12" />
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/nodejs2.svg" height="50" alt="node logo"  />
-  <img width="12" />
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/expressjs.png" height="50" alt="expressjs logo"  />
   <img width="12" />
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/nestjs.svg" height="50" alt="nestjs logo" />
@@ -59,11 +57,15 @@
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/bash.svg" height="50" alt="bash logo"  />
   <img width="12" />
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/git.svg" height="50" alt="git logo"  />
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/nextjs.svg" height="50" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/next.svg" height="50" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/socketio.svg" height="50" alt="socketio logo"  />
+  <img width="12" />
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/tailwind.svg" height="50" alt="tailwind logo"  />
+  <img width="12" />
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/ts.svg" height="50" alt="ts logo" />
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/vercel.svg" height="50" alt="vercel logo" />
+
  
 </div>
 
