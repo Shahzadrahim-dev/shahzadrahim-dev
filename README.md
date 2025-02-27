@@ -19,18 +19,14 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzadrahim-dev&radius=16&theme=merko&area=true&order=5&point=D9A43C&title_color=D9A43C&line=D9A43C&color=D9A43C&hide_border=true&hide_title=true"  width="100%" alt="activity-graph graph"  />
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg" width="50%">
-  <img src="https://i.pinimg.com/originals/fa/6a/a8/fa6aa8b9f02691e42df56f1678e795fc.gif" width="50%">
-</p>
 
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg"  width="100%">
+      <img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg"  height="250">
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/fa/6a/a8/fa6aa8b9f02691e42df56f1678e795fc.gif"  width="100%">
+      <img src="https://i.pinimg.com/originals/fa/6a/a8/fa6aa8b9f02691e42df56f1678e795fc.gif"  height="250">
     </td>
   </tr>
 </table>
