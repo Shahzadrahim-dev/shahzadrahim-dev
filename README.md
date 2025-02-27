@@ -37,21 +37,21 @@
 ## My Tech Stack
 <div align="left">
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/css.svg" height="60" alt="css logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/js.svg" height="50" alt="js logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/react.svg" height="50" alt="react logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/nodejs.svg" height="50" alt="node logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/expressjs.png" height="50" alt="expressjs logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/nestjs.svg" height="50" alt="nestjs logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/js.svg" height="60" alt="js logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/react.svg" height="60" alt="react logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/nodejs.svg" height="60" alt="node logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/expressjs.png" height="60" alt="expressjs logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/nestjs.svg" height="60" alt="nestjs logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/mongodb.svg" height="50" alt="mongodb logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/postgresql.svg" height="50" alt="postgresql logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/mongodb.svg" height="60" alt="mongodb logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/postgresql.svg" height="60" alt="postgresql logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <br><br>
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/bash.svg" height="50" alt="bash logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/git.svg" height="50" alt="git logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/next.svg" height="50" alt="nextjs logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/socketio.svg" height="50" alt="socketio logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/tailwind.svg" height="50" alt="tailwind logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/ts.svg" height="50" alt="ts logo"/>
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/bash.svg" height="60" alt="bash logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/git.svg" height="60" alt="git logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/next.svg" height="60" alt="nextjs logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/socketio.svg" height="60" alt="socketio logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/tailwind.svg" height="60" alt="tailwind logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/ts.svg" height="60" alt="ts logo"/>
 </div>
 
 ## Socials
