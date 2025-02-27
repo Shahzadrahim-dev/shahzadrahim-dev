@@ -56,8 +56,8 @@
 
 ## Socials
 <div align="left">
-  <a href="https://www.linkedin.com/in/shahzad-rahim-hakimi-5358b1353/" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>&nbsp;
-  <a href="https://x.com/Shahzad_Hakimi" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></a>&nbsp;
-  <a href="mailto:shahzadrahim.dev@gmail.com" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
+  <a href="https://www.linkedin.com/in/shahzad-rahim-hakimi-5358b1353/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>&nbsp;
+  <a href="https://x.com/Shahzad_Hakimi" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></a>&nbsp;
+  <a href="mailto:shahzadrahim.dev@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
 </div>
 
