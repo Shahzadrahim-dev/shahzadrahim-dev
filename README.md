@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg" height="420"  >
+      <img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg" height="400"  >
     </td>
     <td>
       <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/connecting.gif" height="350">
