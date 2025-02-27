@@ -36,7 +36,7 @@
 
 ## My Tech Stack
 <div align="left">
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/css.svg" height="50" alt="css logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/css.svg" height="60" alt="css logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/js.svg" height="50" alt="js logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/react.svg" height="50" alt="react logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/nodejs.svg" height="50" alt="node logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
