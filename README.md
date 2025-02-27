@@ -34,31 +34,37 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=00FF00&multiline=true&width=600&height=57&lines=Have+a+Vision+You+Would+Like+to+Bring+to+Life%3F;Connect+With+Me+Through+My+Socials+Below.)](https://git.io/typing-svg)
 
 
-## Skills
+## My Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/css.svg" height="50" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/js.svg" height="50" alt="js logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/react.svg" height="50" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/nodejs.svg" height="50" alt="node logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/nodejs2.svg" height="50" alt="node logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/expressjs.png" height="50" alt="expressjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="50" alt="next js logo" />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/nestjs.svg" height="50" alt="nestjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/mongodb.svg" height="50" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="c++ logo"  />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/postgresql.svg" height="50" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/bash.svg" height="50" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="50" alt="bash logo"  />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/git.svg" height="50" alt="git logo"  />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/nextjs.svg" height="50" alt="nextjs logo"  />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/socketio.svg" height="50" alt="socketio logo"  />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/tailwind.svg" height="50" alt="tailwind logo"  />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/ts.svg" height="50" alt="ts logo" />
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/vercel.svg" height="50" alt="vercel logo" />
+ 
 </div>
 
 ## Socials
