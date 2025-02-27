@@ -23,10 +23,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg" height="450" >
+      <img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg" height="450" width="40%" >
     </td>
     <td>
-      <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/connecting.gif" height="350" >
+      <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/connecting.gif" height="350" width="60%">
     </td>
   </tr>
 </table>
