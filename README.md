@@ -52,7 +52,8 @@
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/next.svg" height="60" alt="nextjs logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/socketio.svg" height="60" alt="socketio logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/tailwind.svg" height="60" alt="tailwind logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/ts.svg" height="60" alt="ts logo"/>
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/ts.svg" height="60" alt="ts logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/wordpress.svg" height="60" alt="wordpress logo"/>
 </div>
 
 ## Socials
