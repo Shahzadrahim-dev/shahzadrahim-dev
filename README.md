@@ -42,7 +42,7 @@
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/nodejs.svg" height="60" alt="node logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/expressjs.png" height="60" alt="expressjs logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/nestjs.svg" height="60" alt="nestjs logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/mongodb.svg" height="60" alt="mongodb logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/tech%20stack/postgresql.svg" height="60" alt="postgresql logo"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <br><br>
