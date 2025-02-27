@@ -20,3 +20,4 @@
 
 
 <img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
+<img src="https://i.pinimg.com/originals/fa/6a/a8/fa6aa8b9f02691e42df56f1678e795fc.gif">
