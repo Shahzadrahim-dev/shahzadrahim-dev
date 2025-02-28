@@ -68,7 +68,7 @@
   <a href="https://x.com/Shahzad_Hakimi" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="60" alt="twitter logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:shahzadrahim.dev@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="60" alt="gmail logo" /></a>
 </div>
-<br><br>
+<br>
 <img src="https://profile-counter.glitch.me/shahzadrahim-dev/count.svg?"  />
 
 
