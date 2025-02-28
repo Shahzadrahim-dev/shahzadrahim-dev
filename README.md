@@ -1,9 +1,11 @@
-![Banner](https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/boom.gif)
+<!-- Main Banner-->
+![Banner](https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/banner.gif)
 
+<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=00FF00&multiline=true&width=450&height=57&lines=I+am+a+Full+Stack+Engineer.;Specializing+in+React+%26+Frontend+UI.)](https://git.io/typing-svg)
 
 ###
-
+<!-- Statistics -->
 <table align="center">
   <tr>
     <td align="center" valign="middle">
@@ -16,10 +18,11 @@
 </table>
 
 
+<!-- graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzadrahim-dev&radius=16&theme=merko&area=true&order=5&point=D9A43C&title_color=D9A43C&line=D9A43C&color=D9A43C&hide_border=true&hide_title=true"  width="100%" alt="activity-graph graph"  />
 
 
-
+<!-- Statistics 2 -->
 <table>
   <tr>
     <td>
@@ -31,8 +34,10 @@
   </tr>
 </table>
 
+<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=00FF00&multiline=true&width=600&height=57&lines=Have+a+Vision+You+Would+Like+to+Bring+to+Life%3F;Connect+With+Me+Through+My+Socials+Below.)](https://git.io/typing-svg)
 
+<!-- LeetCode Statistics -->
 <img src="https://leetcard.jacoblin.cool/ShahzadRahim-dev?theme=dark&font=Fira%20Sans%20Condensed&ext=heatmap" width="100%"/>
 
 ## My Tech Stack
