@@ -70,7 +70,7 @@
 </div>
 
 
-## Socials
+## Profile Views
 <img src="https://profile-counter.glitch.me/shahzadrahim-dev/count.svg?"  />
 
 
