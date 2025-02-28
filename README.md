@@ -29,7 +29,7 @@
       <img src="https://github.com/Shahzadrahim-dev/github-stats-ternimal/blob/master/github_stats.svg" height="360"  >
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg" height="40%">
+      <img src="https://github.com/Shahzadrahim-dev/shahzadrahim-dev/blob/main/connecting.gif" height="40%">
     </td>
   </tr>
 </table>
